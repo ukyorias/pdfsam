@@ -223,20 +223,20 @@ msgstr "啟動時檢查官方新聞"
 msgid ""
 "Set whether the application should check for news availability on startup "
 "(restart needed)"
-msgstr ""
+msgstr "設定啟動時是否檢查官方發佈新聞（必須重新啟動程式）"
 
 msgid "Enabled PDF compression"
 msgstr "啟用PDF壓縮"
 
 msgid "Set whether \"Compress output file\" should be enabled by default"
-msgstr ""
+msgstr "設定 \"壓縮輸出的檔案\" 是否預設被啟用"
 
 msgid "Overwrite files"
 msgstr "覆蓋文件"
 
 msgid ""
 "Set whether \"Overwrite if already exists\" should be enabled by default"
-msgstr ""
+msgstr 設定 \"覆蓋文件\" 是否預設被啟用""
 
 msgid "Play alert sounds"
 msgstr "播放警示音效"
@@ -245,7 +245,7 @@ msgid "Turn on or off alert sounds"
 msgstr "開啟或關閉警示音效"
 
 msgid "Store passwords when saving a workspace file"
-msgstr ""
+msgstr "當工作區的檔案被儲存時儲存密碼"
 
 msgid ""
 "If an encrypted PDF document has been opened with a password, save the "
@@ -261,20 +261,20 @@ msgid ""
 msgstr "打開或是關閉每過一段時間就會出現的，詢問使用者是否會以捐款支援 PDFsam 的通知"
 
 msgid "Show premium features"
-msgstr ""
+msgstr "顯示首頁中的付費會員功能"
 
 msgid ""
 "Set whether the application should fetch and show premium features "
 "description in the modules dashboard"
-msgstr ""
+msgstr "設定是否應顯示首頁中的付費會員功能"
 
 msgid "Ask for a confirmation when clearing the selection table"
-msgstr ""
+msgstr "在清除選擇表格時要求確認"
 
 msgid ""
 "Set whether the application should ask for a confirmation when clearing the "
 "selection table"
-msgstr ""
+msgstr "設定清除選擇表格時是否要求確認"
 
 msgid "Use the selected PDF document directory as output directory"
 msgstr "使用選取的 PDF 文件目錄作為輸出目錄"
@@ -304,7 +304,7 @@ msgid "Settings"
 msgstr "設定"
 
 msgid "Drag and drop PDF files or directories containing PDF files"
-msgstr ""
+msgstr "拖放PDF文件或包含PDF文件的目錄"
 
 msgid "No PDF found"
 msgstr "找不到任何PDF檔案"
@@ -319,19 +319,19 @@ msgid "No"
 msgstr "否"
 
 msgid "Confirm clearing"
-msgstr ""
+msgstr "確定清除"
 
 msgid "Do you confirm?"
-msgstr ""
+msgstr "你確定嗎？"
 
 msgid "Clear the module settings"
 msgstr ""
 
 msgid "Clear the selection table"
-msgstr ""
+msgstr "清除選擇的表"
 
 msgid "Open with"
-msgstr "開啟用..."
+msgstr "用...開啟"
 
 msgid "Select the task to perform on the following files"
 msgstr ""
@@ -343,16 +343,16 @@ msgid "The selected directory is not empty"
 msgstr "選取的目錄不是空的"
 
 msgid "What would you like to do in case of files with the same name?"
-msgstr ""
+msgstr "想如何處理有相同檔名的檔案？"
 
 msgid "Overwrite"
 msgstr "覆寫"
 
 msgid "Rename"
-msgstr ""
+msgstr "更名"
 
 msgid "Skip"
-msgstr ""
+msgstr "跳過"
 
 msgid "Cancel"
 msgstr "取消"
@@ -367,7 +367,7 @@ msgid "A file with the given name already exists"
 msgstr "已存在相同名稱的檔案"
 
 msgid "What would you like to do?"
-msgstr ""
+msgstr "想要如何處理？"
 
 msgid "Non existing directory"
 msgstr "不存在的目錄"
@@ -446,10 +446,10 @@ msgid "New version available"
 msgstr "有新版本可用"
 
 msgid "You are running the latest version of PDFsam Basic"
-msgstr ""
+msgstr "您正在執行最新版本的 PDFsam Basic"
 
 msgid "No update"
-msgstr ""
+msgstr "沒有更新"
 
 msgid "Open"
 msgstr "開啟"
@@ -476,10 +476,10 @@ msgid "_Save"
 msgstr "儲存 (_S)"
 
 msgid "Recen_ts"
-msgstr ""
+msgstr "最近使用 (_t)"
 
 msgid "_Clear recents"
-msgstr ""
+msgstr "清除最近使用 (_C)"
 
 msgid "Select the workspace file to save"
 msgstr "選取要存檔的工作區"
@@ -545,16 +545,16 @@ msgid "The selected PDF document is invalid"
 msgstr "選取的 PDF 文件無效"
 
 msgid "Select the PDF file"
-msgstr ""
+msgstr "選擇 PDF 檔案"
 
 msgid "_Select PDF"
-msgstr ""
+msgstr "選擇PDF檔 (_S)"
 
 msgid "_Clear"
 msgstr "清除 (_C)"
 
 msgid "Clear all settings"
-msgstr ""
+msgstr "清除所有設定"
 
 #, java-format
 msgid "Pages: {0}, PDF Version: {1}"
@@ -585,7 +585,7 @@ msgid "Drag and drop PDF files here"
 msgstr "請將 PDF 檔拖拉至此處"
 
 msgid "Set as range for all"
-msgstr ""
+msgstr "設定為全部範圍"
 
 msgid "Move to Top"
 msgstr "移至最頂"
@@ -624,7 +624,7 @@ msgid "Select pdf documents to load"
 msgstr "請選擇要載入的 PDF 文件"
 
 msgid "Select a text or CSV file to load"
-msgstr ""
+msgstr "選擇要讀取的文字或CSV檔"
 
 msgid "Removes selected documents"
 msgstr "移除所選的文件"
@@ -958,7 +958,7 @@ msgid ""
 msgstr "在每個奇數頁的被合併文件後新增一空白頁"
 
 msgid "Add a footer"
-msgstr ""
+msgstr "加入頁尾"
 
 msgid "Adds a page footer with the name of the file the page belonged to."
 msgstr ""
